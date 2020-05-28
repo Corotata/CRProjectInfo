@@ -1,0 +1,16 @@
+PODS:
+  - CRProjectInfo (1.0.0)
+
+DEPENDENCIES:
+  - CRProjectInfo (from `../`)
+
+EXTERNAL SOURCES:
+  CRProjectInfo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CRProjectInfo: 5e6af4984e1690858a178489eb25981b12829a84
+
+PODFILE CHECKSUM: 385d1a06943385b5f1e69798451ff977f25c7cab
+
+COCOAPODS: 1.8.4
